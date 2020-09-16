@@ -17,7 +17,11 @@
   "devDependencies": {
     "autoprefixer": "^9.6.0",
     "concat": "^1.0.3",
+<<<<<<< HEAD
     "node-sass": "^4.14.1",
+=======
+    "node-sass": "^4.13.1",
+>>>>>>> b969cdaebcdbbe9aacbb37f4800f12f89a44191d
     "npm-run-all": "^4.1.1",
     "postcss-cli": "^7.1.1"
   },
